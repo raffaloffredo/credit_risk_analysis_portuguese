@@ -28,7 +28,24 @@ Nesse estudo tenho por objetivo encontrar o melhor modelo preditivo para esse pr
 <br/>
 
 ## Material Extra
+Os resultados obtidos nesse estudo foram condensados em imagens para gerar uma apresentação direta do que a empresa poderia alcançar com o uso dessa ferramenta.
 
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTu4M7QnOsInwbLENsYYicTZhRrmydOB5srJ6TrWZKreZg90bMCY5bhyphenhyphenBCfBi_0av1kz_vtMvVcGYn5JtNkPcuIwXcWcstvLXU_gRW4BxIUnbFywDBVtvLi7kBs0s7vHNVgyHsrzvmKWPBCUofYTc-Fk2VR_ESx-U2w12k130MT2yntVpnteFq3dyTfd8/w640-h360/Slide1.PNG" width="60%">
+</p>
+<br/>
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6bSWVTQwBKEJ0Gj_Ib3zJGqr-mVwR-Pl7d349frJldNau0CfbrCBSXNjU9oKRNh6giQ2k6x5kg8JR7EkvZM3TCXeU_uyuw6S2tyYPpT13OK4cqnVLlFTc_7vF-bRUHj4TPNcjOcdQI8ZZ8rSHQEIt-HqOoKx42xr1nGZ4Cfm1z8J3VTC_UInIjMx0asU/w640-h360/Slide2.PNG" width="60%">
+</p>
+<br/>
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHBLThcwoe3WuEOGD0EV6xL_KnuO4mkrF8_Y3uQikDtB7fr1HNr18cJZ3hrgkYrzhE2sOZfhhMW0V4F3oWAt7XoBx43JH4FMgLZIqz64-mgngXwX1-kAUZxoEdobzdYbJKry1oXALX2pV9Tm7A1cdk1I7Bw_4-n8xzQhyphenhyphen49zOPrkOatjJJMquL9n0UimI/w640-h360/Slide3.PNG" width="60%">
+</p>
+<br/>
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0sWY4H36FBloh-JXGL0iru9DRIUH8CKxOfH05Mn2cBeGcPAEY4csahh75bIgFT9M1e5vzINdprUpaBVCy9qFbYxHsuNqxyntkQzDV7yQ28sT1pcKbmiJAyDkKaM3rciC7jQTbbM9-jZBR2HurQfSYdALlsRrhUeCbsHVwko8qS8CUzDfvftS1O4xTO7w/w640-h360/Slide4.PNG" width="60%">
+</p>
+<br/>
 
 ## Outros projetos
 
