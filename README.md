@@ -16,7 +16,7 @@
 <br/>
 
 ## Sobre o projeto
-A análise de risco de crédito é peça chave para a boa manutenção dos balanços das instituições financeiras. Manter uma taxa de inadimplência baixa garante que os empréstimos que estão sendo feitos estão gerando lucro. Para isso, têm-se intensificado o uso de aprendizado de máquina pra a constução de modelos capazes de identificar padrões e prever se um cliente pode vir a se tornar default.
+A análise de risco de crédito é peça chave para a boa manutenção dos balanços das instituições financeiras. Manter uma taxa de inadimplência baixa garante que os empréstimos que estão sendo feitos estão gerando lucro. Para isso, têm-se intensificado o uso de aprendizado de máquina pra a construção de modelos capazes de identificar padrões e prever se um cliente pode vir a se tornar default.
 
 Nesse estudo tenho por objetivo encontrar o melhor modelo preditivo para esse problema, com o uso de análise exploratória, análises estatísticas (descritiva, diagnóstica e prescritiva), indicadores e gráficos, limpeza e tratamento dos dados, preparação dos dados com padronização (_Standard Scaler_) e balanceamento (_Undersampling_), tratamento de variáveis categóricas com _Label Encoder_ e variáveis _dummy_, criação de uma função para a criar e avaliar modelos, construção de modelos para comparações com 7 algoritmos diferentes, otimização de hiperparâmetros do XGBoost com o uso de validação cruzada (_Stratified KFold_) e busca em grade (_Grid Search_), aplicação de engenharia de atributos, e avaliação de performance dos modelos com a construção de matrizes de confusão e pelas métricas de Área abaixo da curva (_AUC_) e _Recall_. Finalmente, comprova-se que um modelo tem melhor desempenho do que o outro com teste de hipótese _z_.
 
