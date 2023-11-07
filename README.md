@@ -14,7 +14,7 @@ A análise de risco de crédito é peça chave para a boa manutenção dos balan
 Nesse estudo tenho por objetivo encontrar o melhor modelo preditivo para esse problema, com o uso de análise exploratória, análises estatísticas (descritiva, diagnóstica e prescritiva), indicadores e gráficos, limpeza e tratamento dos dados, preparação dos dados com padronização (_Standard Scaler_) e balanceamento (_Undersampling_), tratamento de variáveis categóricas com _Label Encoder_ e variáveis _dummy_, criação de uma função para a criar e avaliar modelos, construção de modelos para comparações com 7 algoritmos diferentes, otimização de hiperparâmetros do XGBoost com o uso de validação cruzada (_Stratified KFold_) e busca em grade (_Grid Search_), aplicação de engenharia de atributos, e avaliação de performance dos modelos com a construção de matrizes de confusão e pelas métricas de Área abaixo da curva (_AUC_) e _Recall_. Finalmente, comprova-se que um modelo tem melhor desempenho do que o outro com teste de hipótese _z_.
 
 
-* **[Projeto na íntegra]()**
+* **[Projeto na íntegra](https://github.com/raffaloffredo/credit_risk_analysis_portuguese/blob/main/%5BLoffredoDS%5D_An%C3%A1lise_de_Risco_de_Cr%C3%A9dito.ipynb)**
 * **[Artigo Completo](https://medium.com/@loffredo.ds/constru%C3%A7%C3%A3o-de-modelo-preditivo-de-an%C3%A1lise-de-risco-de-cr%C3%A9dito-usando-xgboost-0c8be75ae9f0)**
 * **[Artigo Resumido (Resultados)](https://www.linkedin.com/pulse/resultados-obtidos-na-constru%25C3%25A7%25C3%25A3o-de-modelo-preditivo-an%25C3%25A1lise-uywxf)**
 
