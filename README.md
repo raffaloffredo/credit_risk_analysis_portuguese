@@ -1,12 +1,5 @@
 # Análise de Risco de Crédito
 
-<p align="center">
-  🚧🚧🚧
-  <br/>
-  EM CONSTRUÇÃO  
-</p>
-<br/>
-
 <img align="center" alt="EN" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-united-states_1f1fa-1f1f8.png"> _Click [here](https://github.com/raffaloffredo/credit_risk_analysis) to English-EN_   
 <br/>
 
@@ -22,8 +15,8 @@ Nesse estudo tenho por objetivo encontrar o melhor modelo preditivo para esse pr
 
 
 * **[Projeto na íntegra]()**
-* **[Artigo]()**
-* **[Artigo Resumido (Resultados)]()**
+* **[Artigo Completo](https://medium.com/@loffredo.ds/constru%C3%A7%C3%A3o-de-modelo-preditivo-de-an%C3%A1lise-de-risco-de-cr%C3%A9dito-usando-xgboost-0c8be75ae9f0)**
+* **[Artigo Resumido (Resultados)](https://www.linkedin.com/pulse/resultados-obtidos-na-constru%25C3%25A7%25C3%25A3o-de-modelo-preditivo-an%25C3%25A1lise-uywxf)**
 
 <br/>
 
